@@ -1,1 +1,13 @@
-HIIIII
+System testing:
+
+What is system Testing?
+System Testing is conducted by __________
+It is type of (blackbox/whitebox testing)
+
+
+
+Acceptance testing
+
+What is acceptance Testing?
+Acceptance Testing is conducted by __________
+It is type of (blackbox/whitebox testing)
